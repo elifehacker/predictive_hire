@@ -1,4 +1,21 @@
 # predictive_hire
+## run application
+```
+python app.py
+```
+## build docker
+```
+pipreqs .
+pip install -r requirements.txt
+docker build --tag python-docker .
+docker run -p 5000:5000 python-docker
+```
+## query the api
+test with below cmd in the same directory as the app.py file
+```
+curl -vX POST http://localhost:5000/api/selected -d @payload.json --header "Content-Type: application/json"
+```
+
 ## Answer to question
 (1) Regarding the mode building, how would you increase the accuracy of the model. 
 1. add more data
