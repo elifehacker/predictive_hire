@@ -25,7 +25,8 @@ curl -vX POST http://localhost:5000/api/selected -d @payload.json --header "Cont
 5. fine tune each algorithm with different parameter values
 
 (2) Regarding the docker deployment, what are the services you would consider if you are to deploy the docker as an actual web service in the cloud, e.g., AWS. 
-VPC, ECS, EFS, and maybe terraform to allow IaC
+
+VPC, ECS, EFS, and maybe use terraform to allow IaC
 
 (3) How would you reduce the response time and increase throughput of the deployed service in the cloud?
 1. deploy in mutiple regions to reduce latency
