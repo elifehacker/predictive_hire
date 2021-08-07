@@ -1,0 +1,94 @@
+{
+    "MCQ_A10": [
+        0,
+        3
+    ],
+    "MCQ_A11": [
+        0,
+        5
+    ],
+    "MCQ_A13": [
+        0,
+        3
+    ],
+    "MCQ_A14": [
+        0,
+        5
+    ],
+    "MCQ_A15": [
+        0,
+        3
+    ],
+    "MCQ_A18": [
+        0,
+        3
+    ],
+    "MCQ_A2": [
+        0,
+        5
+    ],
+    "MCQ_A20": [
+        0,
+        3
+    ],
+    "MCQ_B7": [
+        0,
+        5
+    ],
+    "MCQ_B76": [
+        0,
+        3
+    ],
+    "MCQ_B78": [
+        0,
+        3
+    ],
+    "MCQ_B79": [
+        0,
+        3
+    ],
+    "MCQ_B8": [
+        0,
+        5
+    ],
+    "MCQ_B82": [
+        0,
+        3
+    ],
+    "MCQ_B85": [
+        0,
+        3
+    ],
+    "MCQ_B89": [
+        0,
+        5
+    ],
+    "MCQ_B90": [
+        0,
+        3
+    ],
+    "MCQ_B91": [
+        0,
+        3
+    ],
+    "MCQ_B95": [
+        0,
+        3
+    ],
+    "MCQ_B98": [
+        0,
+        5
+    ],
+    "job_family": [
+        "CallCentre",
+        "Retail"
+    ],
+    "gender": [
+        "female",
+        "male"
+    ],
+    "text_response": [
+        "good good good",
+        "bad bad bad horrible terrible no way rejection"
+    ]
+}
